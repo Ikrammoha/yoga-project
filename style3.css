@@ -1,0 +1,63 @@
+
+.ikram {
+    text-align: center;
+    color: navy;
+}
+
+
+.favorite {
+    margin-left: 20px;
+}
+
+#fav1 {
+    color: red;
+}
+
+#fav2 {
+    color: blue;
+}
+
+#fav3 {
+    color: green;
+}
+
+#fav4 {
+    color: purple;
+}
+
+
+.testimonials {
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.testimonials h3 {
+    text-align: center;
+    color: #333;
+}
+
+.testimonial {
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+
+.testimonial1 {
+    background-color: #003366; 
+    color: #ffffff; 
+}
+.testimonial2 {
+    background-color: #ffd60a; 
+    color: #000000; 
+}
+
+.testimonial3 {
+    background-color: #2d6a4f; 
+    color: #ffffff; 
+}
+
+.testimonial h4 {
+    margin-top: 10px;
+    text-align: right;
+}

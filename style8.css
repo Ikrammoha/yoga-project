@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #d191ba;
+    
+}
+.quote{
+    display: block;
+    padding: 30px;
+    color: #fff;
+    font-style: italic;
+    box-shadow: 8px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+#quote1{
+    margin: 20px;
+    border: 10px solid #a76a0e;
+    background-color: #08976f;
+    border-radius: 8px 14px 8px 14px;
+    
+}
+#quote2{
+    margin: 20px;
+    border: 8px dashed #922121;
+    background-color: #2d6a4f;
+    border-radius: 12px;
+}
+#quote3{
+    margin: 20px;
+    border: 7px dotted #080707;
+    background-color: #003366;
+    border-radius:18px 30px 20 18px;
+}
+#quote4{
+    margin: 20px;
+    border: 10px double #07050b;
+    background-color: #003366;
+    border-radius: 20px 10px 10px 20px;
+    
+}

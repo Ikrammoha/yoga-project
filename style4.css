@@ -1,0 +1,17 @@
+*{
+    background-color: #e6e1e1;
+}
+blockquote {
+    font-style: italic;
+    font-size: 1.2rem;
+    color: #0b0a0a;
+    padding-left: 15px;
+    margin-left: 0;
+}
+blockquote footer {
+    margin: 0;
+    font-size: 2rem;
+    color: #321616;    
+    font-style: bold;
+    font-family: 'Georgia', serif;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: navajowhite;
+    margin: 29px;
+    padding: 20px;  
+}
+
+
+ul{
+    background: rgb(214, 206, 206);
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 500px;
+}
+#list1 {
+    color: red;
+}
+#list2 {
+    color: green;
+}
+#list3 {
+    color: blue;
+}
+#list4 {
+    color: orange;
+}

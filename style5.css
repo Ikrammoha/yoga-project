@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+p {
+    text-align: left;
+    color: #555;
+    margin-top: 10px;
+    font-size: 1.3rem;
+    text-indent: 5px;
+}
+span.important {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+    
+}

@@ -1,0 +1,33 @@
+/* General Section Styling */
+.interest-section {
+    width: 80vw;
+    height: 50vh;
+    margin: 5vh auto;
+    padding: 20px;
+}
+
+/* Books Section */
+#books {
+    background-color: lightblue;
+}
+
+/* Movies Section */
+#movies {
+    background-color: lightgrey;
+}
+
+/* Foods Section */
+#foods {
+    background-color: lightgreen;
+}
+
+/* Text Styling */
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+}
